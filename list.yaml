@@ -15,6 +15,7 @@ dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
 everything: https://github.com/spitfire05/base16-everything
 frescobaldi: https://github.com/rkubosz/base16-frescobaldi
+flavours-vim: https://github.com/RichardBronosky/base16-flavours-vim
 fzf: https://github.com/fnune/base16-fzf
 gnome-terminal: https://github.com/aarowill/base16-gnome-terminal
 godot: https://github.com/Calinou/base16-godot
@@ -64,6 +65,7 @@ tilix: https://github.com/karlding/base16-tilix
 tmux: https://github.com/mattdavis90/base16-tmux
 tty: https://github.com/MArpogaus/base16-tty
 vim-airline-themes: https://github.com/dawikur/base16-vim-airline-themes
+vim-flavours: https://github.com/RichardBronosky/base16-vim
 vim: https://github.com/chriskempson/base16-vim
 vimiv: https://github.com/karlch/base16-vimiv
 vis: https://github.com/pshevtsov/base16-vis
